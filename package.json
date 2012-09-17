@@ -1,0 +1,14 @@
+{
+  "author": "Justin Reidy <jmreidy@rzrsharp.net> (http://rzrsharp.net)",
+  "name": "MongoHerokuBackup",
+  "version": "0.1.0",
+  "private": "true",
+  "dependencies": {
+    "knox": "0.3.0",
+    "moment": "1.7.0"
+  },
+  "engines": {
+    "node": ">=0.8",
+    "npm": ">=1.1.41"
+  }
+}
